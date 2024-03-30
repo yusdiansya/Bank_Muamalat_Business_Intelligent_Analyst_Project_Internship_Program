@@ -10,3 +10,5 @@ Lookerstudio Link  : https://lookerstudio.google.com/reporting/708c1b69-c0e6-490
 **DASHBOARD DATA VISUALIZATION**
 
 ![DASHBOARD PT SEHAJTERA BERSAMA_YUSDIANSYA PUTRA](https://github.com/yusdiansya/Bank_Muamalat_Business_Intelligent_Analyst_Project_Internship_Program/assets/71084476/949c05eb-830e-425f-8d4a-b36425fd37ca)
+
+Designed by Yusdiansya Putra
