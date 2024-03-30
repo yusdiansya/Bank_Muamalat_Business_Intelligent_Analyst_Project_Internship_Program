@@ -22,3 +22,9 @@ GROUP BY
     c.CustomerCity
 ORDER BY
     o.tanggal ASC;
+
+Dengan nama tabel :
+pelanggan
+produk
+kategori_produk
+penjualan
