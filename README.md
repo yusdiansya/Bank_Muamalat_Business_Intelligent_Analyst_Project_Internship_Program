@@ -4,7 +4,7 @@
 Software           : Bigquery, Looker Studio, Power BI (Relationship), Ms. Power Point (Presentation Tool)                                                                                                
 Hardskill          : SQL, Design, Data Analyst, Tools Visualization
 
-Bigquery Link      : https://console.cloud.google.com/bigquery?sq=248229961470:9c3e2b8d7e2645aeaa8d517fe726aa71                                                                                          
+Bigquery Link      : https://console.cloud.google.com/bigquery?sq=248229961470:a30855115739451486ded1505125330b                                                                                     
 Lookerstudio Link  : https://lookerstudio.google.com/reporting/708c1b69-c0e6-4904-9513-82c946c14415
 
 **DASHBOARD DATA VISUALIZATION**
