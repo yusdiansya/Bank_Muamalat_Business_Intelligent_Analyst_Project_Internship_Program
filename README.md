@@ -1,6 +1,6 @@
 **Bank Muamalat Business Intelligent Analyst Project Internship Program (Rakamin x Bank Muamalat)**
 
-**Requirement**
+**Requirement**                                                                                                                                                                                            
 Software           : Bigquery, Looker Studio, Power BI (Relationship), Ms. Power Point (Presentation Tool)                                                                                                
 Hardskill          : SQL, Design, Data Analyst, Tools Visualization
 
